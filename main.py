@@ -1,38 +1,3 @@
-# from turtle import Turtle, Screen
-
-# tim = Turtle()
-# screen = Screen()
-
-# def move_forward():
-#     tim.forward(50)
-
-
-# def move_backward():
-#     tim.backward(100)
-    
-# def turn_left():
-#     new_heading = tim.heading() + 10
-#     tim.setheading(new_heading)
-
-# def turn_right():
-#     right_heading = tim.heading() - 10
-#     tim.setheading(right_heading)
-
-# def clean_screen():
-#     tim.home()
-#     tim.clear()    
-
-# screen.listen()
-# screen.onkey(key="W", fun = move_forward)
-# screen.onkey(key="S", fun = move_backward)
-# screen.onkey(key="A", fun = turn_left)
-# screen.onkey(key="D", fun = turn_right)
-# screen.onkey(key="C", fun = clean_screen)
-
-
-# screen.exitonclick()
-
-
 #Turtle race game
 
 from turtle import Turtle, Screen
